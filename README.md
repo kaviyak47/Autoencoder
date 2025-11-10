@@ -1,2 +1,3 @@
 # Autoencoder
-Convolutional Autoencoder using TensorFlow/Keras to compress and reconstruct images.
+
+This project demonstrates a **Convolutional Autoencoder** built with TensorFlow and Keras that learns to efficiently compress and reconstruct images. The model takes an input image, reduces it into a smaller encoded representation, and then recreates the image from that compressed form. As training progresses, the reconstructed output becomes clearer, showing how the network learns to capture the most important visual features. This project highlights the concept of unsupervised learning and how autoencoders are used for tasks like image compression, denoising, and feature extraction.
